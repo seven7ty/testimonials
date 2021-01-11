@@ -1,2 +1,2 @@
 # the-helped
-The people I helped during my dev journey (not that many, so it's here mostly to motivate me to do so).
+*To be added, fork the repository, add your name and comment, and then create a Pull Request! See [FORMAT.md](https://github.com/itsmewulf/the-helped/edit/main/FORMAT.md) for details!*
