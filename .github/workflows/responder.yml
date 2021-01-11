@@ -1,4 +1,4 @@
-name: Autocomment
+name: Responder
 
 on: pull_request
 
