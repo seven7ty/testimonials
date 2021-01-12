@@ -1,5 +1,5 @@
 ## Format
-Follow this format and add it to the **end** of the list in [README.md](https://github.com/itsmewulf/testimonials/blob/main/README.md), thanks!
+Follow this format and add it to the **end** of the list in [README.md](README.md), thanks!
 ```
 - [YOUR_NAME](LINK_TO_YOUR_GITHUB_PROFILE) - COMMENT
 ```
