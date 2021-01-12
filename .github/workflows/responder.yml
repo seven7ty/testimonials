@@ -14,4 +14,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           msg: "Thanks a lot for joining this list 💖 Truly appreciate it!"
-          check_for_duplicate_msg: false
